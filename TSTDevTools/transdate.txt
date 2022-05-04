@@ -1,0 +1,8 @@
+moto,0,11
+ModName,TheSuperTown,TheSuperTown
+StartLogText,\n---------------\nTheSuperTown\nCreate By TheSuperTown Team\nThank You Play TheSuperTown\n---------------,\n---------------\nTheSuperTown\n作成:TheSuperTownチーム\nTheSuperTownをプレイしてくれてありがとうございます!!!!\n---------------
+creditsMain,<color=#FFD400>ykundesu</color>&<color=#ff0000>integral</color>,<color=#FFD400>ykundesu</color>&<color=#ff0000>integral</color>
+creditsVersion,<color=#ff0000>The</color><color=#ffa500>Super</color><color=#00ff00>Town</color> v{0},<color=#ff0000>The</color><color=#ffa500>Super</color><color=#00ff00>Town</color> v{0}
+SubmergedDownload,Download\n<color=#AFDFE4>Submerged</color>,<color=#AFDFE4>サブマージド</color>を\nダウンロード
+SubmergedDownloaded,<color=#AFDFE4>Submerged</COLOR>is being downloaded. \?nThis operation will take some time.,<color=#AFDFE4>サブマージド</color>を\nダウンロード中です。\nこの操作は時間がかかります。
+SubmergedDownloadSuc,Download complete!\nPlease reboot.,ダウンロード完了！\n再起動してください。

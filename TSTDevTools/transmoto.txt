@@ -1,0 +1,7 @@
+ModName
+StartLogText
+creditsMain
+creditsVersion
+SubmergedDownload
+SubmergedDownloaded
+SubmergedDownloadSuc

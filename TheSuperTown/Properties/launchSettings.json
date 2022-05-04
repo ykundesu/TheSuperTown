@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "TheSuperTown": {
+      "commandName": "Project"
+    },
+    "AmongUs入": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Epic Games\\AmongUs_mymod\\Among Us.exe"
+    }
+  }
+}

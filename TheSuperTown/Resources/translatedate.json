@@ -1,0 +1,32 @@
+{
+
+ "ModName" : {
+        "0" : "TheSuperTown" ,
+        "11" : "TheSuperTown"
+        } ,
+ "StartLogText" : {
+        "0" : "\\n---------------\\nTheSuperTown\\nCreate By TheSuperTown Team\\nThank You Play TheSuperTown\\n---------------" ,
+        "11" : "\\n---------------\\nTheSuperTown\\n\u4f5c\u6210:TheSuperTown\u30c1\u30fc\u30e0\\nTheSuperTown\u3092\u30d7\u30ec\u30a4\u3057\u3066\u304f\u308c\u3066\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059!!!!\\n---------------"
+        } ,
+ "creditsMain" : {
+        "0" : "<color=#FFD400>ykundesu</color>&<color=#ff0000>integral</color>" ,
+        "11" : "<color=#FFD400>ykundesu</color>&<color=#ff0000>integral</color>"
+        } ,
+ "creditsVersion" : {
+        "0" : "<color=#ff0000>The</color><color=#ffa500>Super</color><color=#00ff00>Town</color> v{0}" ,
+        "11" : "<color=#ff0000>The</color><color=#ffa500>Super</color><color=#00ff00>Town</color> v{0}"
+        } ,
+ "SubmergedDownload" : {
+        "0" : "Download\\n<color=#AFDFE4>Submerged</color>" ,
+        "11" : "<color=#AFDFE4>\u30b5\u30d6\u30de\u30fc\u30b8\u30c9</color>\u3092\\n\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9"
+        } ,
+ "SubmergedDownloaded" : {
+        "0" : "<color=#AFDFE4>Submerged</COLOR>is being downloaded. \\?nThis operation will take some time." ,
+        "11" : "<color=#AFDFE4>\u30b5\u30d6\u30de\u30fc\u30b8\u30c9</color>\u3092\\n\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u4e2d\u3067\u3059\u3002\\n\u3053\u306e\u64cd\u4f5c\u306f\u6642\u9593\u304c\u304b\u304b\u308a\u307e\u3059\u3002"
+        } ,
+ "SubmergedDownloadSuc" : {
+        "0" : "Download complete!\\nPlease reboot." ,
+        "11" : "\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u5b8c\u4e86\uff01\\n\u518d\u8d77\u52d5\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+        } 
+
+}
